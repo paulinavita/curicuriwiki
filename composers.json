@@ -1,0 +1,800 @@
+[
+  {
+    "Name": "Ludwig van Beethoven",
+    "Date born": "1770",
+    "Date died": "1827",
+    "Nationality": "German",
+    "Comments": "\nLudwig van Beethoven\ncomposer and pianist, regarded by many as the first Romantic-era composer, most famous for Symphony No. 5 and Für Elise among others"
+  },
+  {
+    "Name": "Ferdinando Carulli",
+    "Date born": "1770",
+    "Date died": "1841",
+    "Nationality": "Italian",
+    "Comments": "\nFerdinando Carulli\ncomposer for the guitar, wrote concertos and chamber music"
+  },
+  {
+    "Name": "Édouard Du Puy",
+    "Date born": "1770",
+    "Date died": "1822",
+    "Nationality": "Swiss",
+    "Comments": "\nÉdouard Du Puy\ncomposer, singer, director and violinist"
+  },
+  {
+    "Name": "Peter Hänsel",
+    "Date born": "1770",
+    "Date died": "1831",
+    "Nationality": "German-Austrian",
+    "Comments": "\nPeter Hänsel\ncomposer and violinist"
+  },
+  {
+    "Name": "James Hewitt",
+    "Date born": "1770",
+    "Date died": "1827",
+    "Nationality": "American",
+    "Comments": "composer, conductor and music publisher"
+  },
+  {
+    "Name": "Anton Reicha",
+    "Date born": "1770",
+    "Date died": "1836",
+    "Nationality": "Czech-French",
+    "Comments": "\nAnton Reicha\ncomposer who experimented with irregular time signatures in his keyboard fugues, composed a large number of significant works for wind quintet"
+  },
+  {
+    "Name": "Christian Heinrich Rinck",
+    "Date born": "1770",
+    "Date died": "1846",
+    "Nationality": "German",
+    "Comments": "composer and organist"
+  },
+  {
+    "Name": "Jan August Vitásek",
+    "Date born": "1770",
+    "Date died": "1839",
+    "Nationality": "Bohemian",
+    "Comments": "composer"
+  },
+  {
+    "Name": "Friedrich Witt",
+    "Date born": "1770",
+    "Date died": "1836",
+    "Nationality": "German",
+    "Comments": "composer and cellist"
+  },
+  {
+    "Name": "Johann Baptist Cramer",
+    "Date born": "1771",
+    "Date died": "1858",
+    "Nationality": "English",
+    "Comments": "musician of German origin"
+  },
+  {
+    "Name": "Ferdinando Paer",
+    "Date born": "1771",
+    "Date died": "1839",
+    "Nationality": "Italian",
+    "Comments": "composer"
+  },
+  {
+    "Name": "Maria Frances Parke",
+    "Date born": "1772",
+    "Date died": "1822",
+    "Nationality": "English",
+    "Comments": "composer, pianist and soprano"
+  },
+  {
+    "Name": "François-Louis Perne",
+    "Date born": "1772",
+    "Date died": "1832",
+    "Nationality": "French",
+    "Comments": "composer and musicographer"
+  },
+  {
+    "Name": "Josef Triebensee",
+    "Date born": "1772",
+    "Date died": "1846",
+    "Nationality": "Bohemian",
+    "Comments": "composer and oboist"
+  },
+  {
+    "Name": "Johann Wilhelm Wilms",
+    "Date born": "1772",
+    "Date died": "1847",
+    "Nationality": "Dutch-German",
+    "Comments": "composer, best known for writing Wien Neêrlands Bloed, which served as the Dutch national anthem from 1815 to 1932"
+  },
+  {
+    "Name": "Sophie Bawr",
+    "Date born": "1773",
+    "Date died": "1860",
+    "Nationality": "French",
+    "Comments": "composer, writer and playwright"
+  },
+  {
+    "Name": "Pietro Generali",
+    "Date born": "1773",
+    "Date died": "1832",
+    "Nationality": "Italian",
+    "Comments": "composer of operas and vocal music"
+  },
+  {
+    "Name": "Wenzel Thomas Matiegka",
+    "Date born": "1773",
+    "Date died": "1830",
+    "Nationality": "Czech",
+    "Comments": "composer"
+  },
+  {
+    "Name": "Bartolomeo Bortolazzi",
+    "Date born": "1773",
+    "Date died": "1820",
+    "Nationality": "Italian",
+    "Comments": "mandolin and guitar virtuoso and composer"
+  },
+  {
+    "Name": "Pierre Rode",
+    "Date born": "1774",
+    "Date died": "1830",
+    "Nationality": "French",
+    "Comments": "\nPierre Rode\ncomposer and violinist"
+  },
+  {
+    "Name": "Gaspare Spontini",
+    "Date born": "1774",
+    "Date died": "1851",
+    "Nationality": "Italian",
+    "Comments": "\nGaspare Spontini\nopera composer and conductor, famous for La vestale"
+  },
+  {
+    "Name": "Václav Tomášek",
+    "Date born": "1774",
+    "Date died": "1850",
+    "Nationality": "Czech",
+    "Comments": "\nVáclav Tomášek\ncomposer and music teacher"
+  },
+  {
+    "Name": "Christoph Ernst Friedrich Weyse",
+    "Date born": "1774",
+    "Date died": "1842",
+    "Nationality": "Danish",
+    "Comments": "composer in the Danish Golden Age"
+  },
+  {
+    "Name": "Johann Anton André",
+    "Date born": "1775",
+    "Date died": "1842",
+    "Nationality": "German",
+    "Comments": "composer and music publisher"
+  },
+  {
+    "Name": "François-Adrien Boieldieu",
+    "Date born": "1775",
+    "Date died": "1834",
+    "Nationality": "French",
+    "Comments": "\nFrançois-Adrien Boieldieu\ncomposer"
+  },
+  {
+    "Name": "João Domingos Bomtempo",
+    "Date born": "1775",
+    "Date died": "1842",
+    "Nationality": "Portuguese",
+    "Comments": "composer, pianist and pedagogue"
+  },
+  {
+    "Name": "Bernhard Crusell",
+    "Date born": "1775",
+    "Date died": "1838",
+    "Nationality": "Finnish",
+    "Comments": "composer and clarinet player"
+  },
+  {
+    "Name": "Sophia Dussek",
+    "Date born": "1775",
+    "Date died": "1831",
+    "Nationality": "Scottish",
+    "Comments": "composer of Italian descent, singer, pianist and harpist"
+  },
+  {
+    "Name": "François de Fossa",
+    "Date born": "1775",
+    "Date died": "1849",
+    "Nationality": "French",
+    "Comments": "composer and guitarist"
+  },
+  {
+    "Name": "Ernst Theodor Amadeus Hoffmann",
+    "Date born": "1776",
+    "Date died": "1822",
+    "Nationality": "German",
+    "Comments": "composer, author of fantasy and horror, jurist, music critic, draftsman and caricaturist"
+  },
+  {
+    "Name": "Joseph Küffner",
+    "Date born": "1776",
+    "Date died": "1856",
+    "Nationality": "German",
+    "Comments": "composer and musician"
+  },
+  {
+    "Name": "Philipp Jakob Riotte",
+    "Date born": "1776",
+    "Date died": "1856",
+    "Nationality": "German",
+    "Comments": "composer"
+  },
+  {
+    "Name": "Ignaz von Seyfried",
+    "Date born": "1776",
+    "Date died": "1841",
+    "Nationality": "Austrian",
+    "Comments": "composer, musician and conductor"
+  },
+  {
+    "Name": "Ludwig Berger",
+    "Date born": "1777",
+    "Date died": "1839",
+    "Nationality": "German",
+    "Comments": "composer, pianist and piano teacher"
+  },
+  {
+    "Name": "Pauline Duchambge",
+    "Date born": "1778",
+    "Date died": "1858",
+    "Nationality": "French",
+    "Comments": "composer and pianist"
+  },
+  {
+    "Name": "Johann Nepomuk Hummel",
+    "Date born": "1778",
+    "Date died": "1837",
+    "Nationality": "Austrian",
+    "Comments": "\nJohann Nepomuk Hummel\ncomposer and pianist, his music bridged the Classical era of music and Romantic era of music"
+  },
+  {
+    "Name": "Sigismund von Neukomm",
+    "Date born": "1778",
+    "Date died": "1858",
+    "Nationality": "Austrian",
+    "Comments": "composer and pianist"
+  },
+  {
+    "Name": "Fernando Sor",
+    "Date born": "1778",
+    "Date died": "1839",
+    "Nationality": "Spanish",
+    "Comments": "composer for the classical guitar who is credited with elevating the guitar to the level of concert instrument"
+  },
+  {
+    "Name": "William Knyvett",
+    "Date born": "1779",
+    "Date died": "1856",
+    "Nationality": "British",
+    "Comments": "composer and singer"
+  },
+  {
+    "Name": "Louise Reichardt",
+    "Date born": "1779",
+    "Date died": "1826",
+    "Nationality": "German",
+    "Comments": "composer and songwriter"
+  },
+  {
+    "Name": "Luigi Antonio Calegari",
+    "Date born": "1780",
+    "Date died": "1849",
+    "Nationality": "Italian",
+    "Comments": "opera composer"
+  },
+  {
+    "Name": "Conradin Kreutzer",
+    "Date born": "1780",
+    "Date died": "1849",
+    "Nationality": "German",
+    "Comments": "composer and conductor"
+  },
+  {
+    "Name": "Louis François Dauprat",
+    "Date born": "1781",
+    "Date died": "1868",
+    "Nationality": "French",
+    "Comments": "composer, horn player and music professor at the Conservatoire de Paris"
+  },
+  {
+    "Name": "Anton Diabelli",
+    "Date born": "1781",
+    "Date died": "1858",
+    "Nationality": "Austrian",
+    "Comments": "composer, music publisher and editor"
+  },
+  {
+    "Name": "Mauro Giuliani",
+    "Date born": "1781",
+    "Date died": "1828",
+    "Nationality": "Italian",
+    "Comments": "\nMauro Giuliani\ncomposer and virtuoso guitarist"
+  },
+  {
+    "Name": "Anthony Heinrich",
+    "Date born": "1781",
+    "Date died": "1861",
+    "Nationality": "American",
+    "Comments": "composer"
+  },
+  {
+    "Name": "Sophie Lebrun",
+    "Date born": "1781",
+    "Date died": "1863",
+    "Nationality": "German",
+    "Comments": "composer and pianist"
+  },
+  {
+    "Name": "François-Joseph Naderman",
+    "Date born": "1781",
+    "Date died": "1835",
+    "Nationality": "French",
+    "Comments": "\nFrançois-Joseph Naderman\ncomposer, harpist and teacher"
+  },
+  {
+    "Name": "Daniel Auber",
+    "Date born": "1782",
+    "Date died": "1871",
+    "Nationality": "French",
+    "Comments": "opera composer, noted for La muette de Portici"
+  },
+  {
+    "Name": "Carlo Coccia",
+    "Date born": "1782",
+    "Date died": "1873",
+    "Nationality": "Italian",
+    "Comments": "opera composer"
+  },
+  {
+    "Name": "John Field",
+    "Date born": "1782",
+    "Date died": "1837",
+    "Nationality": "Irish",
+    "Comments": "\nJohn Field\ncomposer and pianist, notable for cultivating the nocturne"
+  },
+  {
+    "Name": "Niccolò Paganini",
+    "Date born": "1782",
+    "Date died": "1840",
+    "Nationality": "Italian",
+    "Comments": "\nNiccolò Paganini\ncomposer and virtuoso violinist, wrote the 24 Caprices for violin, five concerti for violin, string quartets and works for violin and guitar"
+  },
+  {
+    "Name": "Charlotta Seuerling",
+    "Date born": "1782",
+    "Date died": "1828",
+    "Nationality": "Swedish",
+    "Comments": "composer, concert singer, harpsichordist and poet"
+  },
+  {
+    "Name": "Friedrich Dotzauer",
+    "Date born": "1783",
+    "Date died": "1860",
+    "Nationality": "German",
+    "Comments": "composer and cellist"
+  },
+  {
+    "Name": "Teresa Belloc-Giorgi",
+    "Date born": "1784",
+    "Date died": "1855",
+    "Nationality": "Italian",
+    "Comments": "composer and contralto"
+  },
+  {
+    "Name": "Martin-Joseph Mengal",
+    "Date born": "1784",
+    "Date died": "1851",
+    "Nationality": "Belgian",
+    "Comments": "composer and instructor"
+  },
+  {
+    "Name": "Francesco Morlacchi",
+    "Date born": "1784",
+    "Date died": "1841",
+    "Nationality": "Italian",
+    "Comments": "composer"
+  },
+  {
+    "Name": "George Onslow",
+    "Date born": "1784",
+    "Date died": "1853",
+    "Nationality": "Anglo-French",
+    "Comments": "composer"
+  },
+  {
+    "Name": "Ferdinand Ries",
+    "Date born": "1784",
+    "Date died": "1838",
+    "Nationality": "German",
+    "Comments": "\nFerdinand Ries\ncomposer, friend and pupil of Ludwig van Beethoven"
+  },
+  {
+    "Name": "Louis Spohr",
+    "Date born": "1784",
+    "Date died": "1859",
+    "Nationality": "German",
+    "Comments": "\nLouis Spohr\ncomposer, violinist and conductor, renowned for chamber music and compositions for violin and harp"
+  },
+  {
+    "Name": "Alexandre Pierre François Boëly",
+    "Date born": "1785",
+    "Date died": "1858",
+    "Nationality": "French",
+    "Comments": "composer, organist and pianist"
+  },
+  {
+    "Name": "Bettina von Arnim",
+    "Date born": "1785",
+    "Date died": "1859",
+    "Nationality": "German",
+    "Comments": "composer, writer and novelist"
+  },
+  {
+    "Name": "Catherina Cibbini-Kozeluch",
+    "Date born": "1785",
+    "Date died": "1858",
+    "Nationality": "Austrian",
+    "Comments": "composer of Bohemian ancestry and pianist"
+  },
+  {
+    "Name": "Isabella Colbran",
+    "Date born": "1785",
+    "Date died": "1845",
+    "Nationality": "Spanish",
+    "Comments": "composer and opera singer"
+  },
+  {
+    "Name": "Karol Kurpiński",
+    "Date born": "1785",
+    "Date died": "1857",
+    "Nationality": "Polish",
+    "Comments": "composer, conductor and pedagogue"
+  },
+  {
+    "Name": "Marie Bigot",
+    "Date born": "1785",
+    "Date died": "1820",
+    "Nationality": "French",
+    "Comments": "composer and piano teacher"
+  },
+  {
+    "Name": "Henry Bishop",
+    "Date born": "1786",
+    "Date died": "1855",
+    "Nationality": "English",
+    "Comments": "composer"
+  },
+  {
+    "Name": "Friedrich Kuhlau",
+    "Date born": "1786",
+    "Date died": "1832",
+    "Nationality": "German-Danish",
+    "Comments": "\nFriedrich Kuhlau\ncomposer"
+  },
+  {
+    "Name": "Pietro Raimondi",
+    "Date born": "1786",
+    "Date died": "1853",
+    "Nationality": "Italian",
+    "Comments": "composer"
+  },
+  {
+    "Name": "Carl Maria von Weber",
+    "Date born": "1786",
+    "Date died": "1826",
+    "Nationality": "German",
+    "Comments": "\nCarl Maria von Weber\ncomposer, conductor, pianist, guitarist and critic, one of the first significant Romantic opera composers"
+  },
+  {
+    "Name": "Alexander Alyabyev",
+    "Date born": "1787",
+    "Date died": "1851",
+    "Nationality": "Russian",
+    "Comments": "composer, conductor and pianist"
+  },
+  {
+    "Name": "Franz Xaver Gruber",
+    "Date born": "1787",
+    "Date died": "1863",
+    "Nationality": "Austrian",
+    "Comments": "school teacher, church organist and composer, best known for his Christmas carol, Silent Night"
+  },
+  {
+    "Name": "Michele Carafa",
+    "Date born": "1787",
+    "Date died": "1872",
+    "Nationality": "Italian",
+    "Comments": "opera composer"
+  },
+  {
+    "Name": "Johann Peter Pixis",
+    "Date born": "1788",
+    "Date died": "1874",
+    "Nationality": "German",
+    "Comments": "composer and pianist"
+  },
+  {
+    "Name": "Simon Sechter",
+    "Date born": "1788",
+    "Date died": "1867",
+    "Nationality": "Austrian",
+    "Comments": "prolific composer, renowned music theorist, teacher, organist and conductor"
+  },
+  {
+    "Name": "Elena Asachi",
+    "Date born": "1789",
+    "Date died": "1877",
+    "Nationality": "Romanian",
+    "Comments": "composer of Austrian birth, pianist and singer"
+  },
+  {
+    "Name": "Nicolas-Charles Bochsa",
+    "Date born": "1789",
+    "Date died": "1856",
+    "Nationality": "French",
+    "Comments": "composer and musician"
+  },
+  {
+    "Name": "Friedrich Ernst Fesca",
+    "Date born": "1789",
+    "Date died": "1826",
+    "Nationality": "German",
+    "Comments": "composer of instrumental music and violinist"
+  },
+  {
+    "Name": "Maria Szymanowska",
+    "Date born": "1789",
+    "Date died": "1831",
+    "Nationality": "Polish",
+    "Comments": "composer and virtuoso pianist"
+  },
+  {
+    "Name": "Harriet Browne",
+    "Date born": "1790",
+    "Date died": "1858",
+    "Nationality": "English",
+    "Comments": "composer and writer"
+  },
+  {
+    "Name": "Isaac Nathan",
+    "Date born": "1790",
+    "Date died": "1864",
+    "Nationality": "English",
+    "Comments": "composer, musicologist, journalist and self-publicist known as \"the father of Australian music\""
+  },
+  {
+    "Name": "Carl Czerny",
+    "Date born": "1791",
+    "Date died": "1857",
+    "Nationality": "Austrian",
+    "Comments": "\nCarl Czerny\ncomposer, teacher and pianist"
+  },
+  {
+    "Name": "Ferdinand Hérold",
+    "Date born": "1791",
+    "Date died": "1833",
+    "Nationality": "French",
+    "Comments": "\nFerdinand Hérold\noperatic composer"
+  },
+  {
+    "Name": "Giacomo Meyerbeer",
+    "Date born": "1791",
+    "Date died": "1864",
+    "Nationality": "German",
+    "Comments": "\nGiacomo Meyerbeer\ncomposer for grand opera (Il crociato in Egitto, Les Huguenots, L'Africaine)"
+  },
+  {
+    "Name": "Franz Xaver Wolfgang Mozart",
+    "Date born": "1791",
+    "Date died": "1844",
+    "Nationality": "Austrian",
+    "Comments": "\nFranz Xaver Wolfgang Mozart\ncomposer, pianist, conductor, teacher and the youngest child of Wolfgang Amadeus Mozart"
+  },
+  {
+    "Name": "Carlo Evasio Soliva",
+    "Date born": "1791",
+    "Date died": "1853",
+    "Nationality": "Swiss-Italian",
+    "Comments": "composer"
+  },
+  {
+    "Name": "Jan Václav Voříšek",
+    "Date born": "1791",
+    "Date died": "1825",
+    "Nationality": "Czech",
+    "Comments": "composer, pianist and organist"
+  },
+  {
+    "Name": "Gioachino Rossini",
+    "Date born": "1792",
+    "Date died": "1868",
+    "Nationality": "Italian",
+    "Comments": "\nGioachino Rossini\nprolific opera composer, best known for The Barber of Seville among other operas"
+  },
+  {
+    "Name": "Hedda Wrangel",
+    "Date born": "1792",
+    "Date died": "1833",
+    "Nationality": "Swedish",
+    "Comments": "composer"
+  },
+  {
+    "Name": "Cipriani Potter",
+    "Date born": "1792",
+    "Date died": "1871",
+    "Nationality": "English",
+    "Comments": "composer, teacher and pianist"
+  },
+  {
+    "Name": "Gertrude van den Bergh",
+    "Date born": "1793",
+    "Date died": "1840",
+    "Nationality": "Dutch",
+    "Comments": "composer and pianist"
+  },
+  {
+    "Name": "Bernhard Klein",
+    "Date born": "1793",
+    "Date died": "1832",
+    "Nationality": "German",
+    "Comments": "composer"
+  },
+  {
+    "Name": "Caroline Ridderstolpe",
+    "Date born": "1793",
+    "Date died": "1878",
+    "Nationality": "Swedish",
+    "Comments": "composer and singer"
+  },
+  {
+    "Name": "Princess Amalie of Saxony",
+    "Date born": "1794",
+    "Date died": "1870",
+    "Nationality": "German",
+    "Comments": "composer"
+  },
+  {
+    "Name": "Ignaz Moscheles",
+    "Date born": "1794",
+    "Date died": "1870",
+    "Nationality": "Czech",
+    "Comments": "\nIgnaz Moscheles\ncomposer and piano virtuoso, head of the Leipzig Conservatory after Felix Mendelssohn"
+  },
+  {
+    "Name": "Heinrich Marschner",
+    "Date born": "1795",
+    "Date died": "1861",
+    "Nationality": "German",
+    "Comments": "\nHeinrich Marschner\ncomposer, considered to be the most important composer of German opera between Carl Maria von Weber and Richard Wagner"
+  },
+  {
+    "Name": "Saverio Mercadante",
+    "Date born": "1795",
+    "Date died": "1870",
+    "Nationality": "Italian",
+    "Comments": "\nSaverio Mercadante\ncomposer"
+  },
+  {
+    "Name": "Nikolaos Mantzaros",
+    "Date born": "1795",
+    "Date died": "1872",
+    "Nationality": "Italian-Greek",
+    "Comments": "composer"
+  },
+  {
+    "Name": "Helene Liebmann",
+    "Date born": "1795",
+    "Date died": "1835",
+    "Nationality": "German",
+    "Comments": "composer and pianist"
+  },
+  {
+    "Name": "Franz Berwald",
+    "Date born": "1796",
+    "Date died": "1868",
+    "Nationality": "Swedish",
+    "Comments": "composer, little known in his lifetime, but his works, including his four symphonies are better known today"
+  },
+  {
+    "Name": "Carl Loewe",
+    "Date born": "1796",
+    "Date died": "1869",
+    "Nationality": "German",
+    "Comments": "\nCarl Loewe\ncomposer, baritone singer and conductor"
+  },
+  {
+    "Name": "Mathilda d'Orozco",
+    "Date born": "1796",
+    "Date died": "1863",
+    "Nationality": "Swedish",
+    "Comments": "composer, noble, salonist, poet, writer, singer, amateur actress and harpsichordist"
+  },
+  {
+    "Name": "Giovanni Pacini",
+    "Date born": "1796",
+    "Date died": "1867",
+    "Nationality": "Italian",
+    "Comments": "composer"
+  },
+  {
+    "Name": "Emilie Zumsteeg",
+    "Date born": "1796",
+    "Date died": "1857",
+    "Nationality": "German",
+    "Comments": "composer, pianist, songwriter and choir conductor"
+  },
+  {
+    "Name": "Luigi Castellacci",
+    "Date born": "1797",
+    "Date died": "1845",
+    "Nationality": "Italian",
+    "Comments": "virtuoso on the mandolin and guitar, instrumental composer and author of popular French romances with guitar and piano accompaniments"
+  },
+  {
+    "Name": "Gaetano Donizetti",
+    "Date born": "1797",
+    "Date died": "1848",
+    "Nationality": "Italian",
+    "Comments": "\nGaetano Donizetti\nopera composer, known for Lucia di Lammermoor and L'elisir d'amore among others"
+  },
+  {
+    "Name": "Franz Schubert",
+    "Date born": "1797",
+    "Date died": "1828",
+    "Nationality": "Austrian",
+    "Comments": "\nFranz Schubert\ncomposer, best known for his more than 600 lieder, chamber music, piano works and symphonies"
+  },
+  {
+    "Name": "Annette von Droste-Hülshoff",
+    "Date born": "1797",
+    "Date died": "1848",
+    "Nationality": "German",
+    "Comments": "composer and writer"
+  },
+  {
+    "Name": "Antonio Rolla",
+    "Date born": "1798",
+    "Date died": "1837",
+    "Nationality": "Italian",
+    "Comments": "composer and violin and viola virtuoso"
+  },
+  {
+    "Name": "Olivia Buckley",
+    "Date born": "1799",
+    "Date died": "1847",
+    "Nationality": "English",
+    "Comments": "composer, harpist and organist"
+  },
+  {
+    "Name": "Marie von Stedingk",
+    "Date born": "1799",
+    "Date died": "1868",
+    "Nationality": "Swedish",
+    "Comments": "composer and courtier"
+  },
+  {
+    "Name": "Fromental Halévy",
+    "Date born": "1799",
+    "Date died": "1862",
+    "Nationality": "French",
+    "Comments": "\nFromental Halévy\ncomposer"
+  },
+  {
+    "Name": "Oscar I of Sweden",
+    "Date born": "1799",
+    "Date died": "1859",
+    "Nationality": "Swedish",
+    "Comments": "\nOscar I of Sweden\ncomposer and king of Sweden and Norway"
+  },
+  {
+    "Name": "Alexey Verstovsky",
+    "Date born": "1799",
+    "Date died": "1862",
+    "Nationality": "Russian",
+    "Comments": "\nAlexey Verstovsky\ncomposer, musical bureaucrat and rival of Mikhail Glinka"
+  }
+]

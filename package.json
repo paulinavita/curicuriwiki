@@ -1,0 +1,28 @@
+{
+  "name": "curicuriwiki",
+  "version": "1.0.0",
+  "description": "Scrape to be happy",
+  "main": "main.js",
+  "scripts": {
+    "dev": "node main.js"
+  },
+  "engines": {
+    "node": ">= 8.0.0",
+    "install-node": "10",
+    "npm": ">= 5.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paulinavita/curicuriwiki.git"
+  },
+  "author": "Paulina Davita <paulina.mikey@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paulinavita/curicuriwiki/issues"
+  },
+  "homepage": "https://github.com/paulinavita/curicuriwiki#readme",
+  "devDependencies": {
+    "cheerio": "^1.0.0-rc.9",
+    "puppeteer": "^9.1.1"
+  }
+}
