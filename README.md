@@ -1,2 +1,2 @@
 # curicuriwiki
-Test to scrape wikipedia
+Hi! Testing weird scraping things on js and py. Happy learning!

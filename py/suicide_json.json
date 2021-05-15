@@ -1,0 +1,1677 @@
+{
+  "dimension": [
+                 {
+                   "label": "GHO",
+                   "display": "Indicator"
+                 },
+                 {
+                   "label": "PUBLISHSTATE",
+                   "display": "PUBLISH STATES"
+                 },
+                 {
+                   "label": "YEAR",
+                   "display": "Year"
+                 },
+                 {
+                   "label": "REGION",
+                   "display": "WHO region"
+                 },
+                 {
+                   "label": "COUNTRY",
+                   "display": "Country"
+                 },
+                 {
+                   "label": "SEX",
+                   "display": "Sex"
+                 }
+               ],
+    "fact": [
+              {
+                "dims": {
+                          "COUNTRY": "Afghanistan",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "4.1 [2.3-7.0]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Albania",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "4.3 [2.4-6.7]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Algeria",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "2.5 [1.4-4.3]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Angola",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "6.1 [3.6-9.6]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Antigua and Barbuda",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "0.4 [0.3-0.6]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Argentina",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "8.4 [6.7-10.3]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Armenia",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "3.3 [2.4-4.4]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Australia",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "12.5 [10.2-17.3]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Austria",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "14.6 [11.9-17.7]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Azerbaijan",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "4.1 [2.4-6.5]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Bahamas",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "3.5 [2.4-5.0]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Bahrain",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "8.9 [5.5-12.7]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Bangladesh",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "3.7 [2.3-5.7]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Barbados",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "0.6 [0.4-0.8]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Belarus",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "21.2 [14.7-30.5]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Belgium",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "18.3 [14.9-22.1]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Belize",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "7.1 [5.1-9.5]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Benin",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "7.8 [4.5-12.8]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Bhutan",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "4.6 [2.4-7.9]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Bolivia (Plurinational State of)",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "6.2 [3.3-10.2]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Bosnia and Herzegovina",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "10.9 [6.8-15.8]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Botswana",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "16.1 [8.5-27.6]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Brazil",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "6.9 [6.2-11.7]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Brunei Darussalam",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "2.7 [1.8-3.8]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Bulgaria",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "9.7 [6.9-13.3]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Burkina Faso",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "7.5 [4.4-11.8]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Burundi",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "6.2 [3.6-10.3]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Cabo Verde",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "12.9 [8.0-19.7]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Cambodia",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "4.9 [2.9-7.5]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Cameroon",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "9.0 [5.2-14.7]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Canada",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "11.8 [9.5-15.8]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Central African Republic",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "12.3 [6.7-20.5]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Chad",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "6.4 [3.6-10.6]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Chile",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "9.0 [7.3-10.9]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "China",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "8.1 [6.1-10.6]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Colombia",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "3.9 [2.7-8.4]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Comoros",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "5.4 [2.5-10.1]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Congo",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "6.5 [3.7-10.5]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Costa Rica",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "8.1 [5.6-11.1]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Côte d'Ivoire",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "8.9 [5.1-14.5]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Croatia",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "16.4 [11.7-22.4]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Cuba",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "14.5 [10.6-22.0]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Cyprus",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "3.6 [2.3-5.1]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Czechia",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "12.2 [9.2-15.9]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Democratic People's Republic of Korea",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "9.4 [5.3-15.9]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Democratic Republic of the Congo",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "6.7 [3.9-10.9]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Denmark",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "10.7 [8.3-13.5]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Djibouti",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "9.6 [4.7-17.4]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Dominican Republic",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "4.9 [2.8-8.1]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Ecuador",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "7.6 [4.2-10.8]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Egypt",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "3.0 [1.4-5.8]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "El Salvador",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "6.1 [3.7-13.3]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Equatorial Guinea",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "7.9 [3.9-14.8]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Eritrea",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "10.9 [5.9-18.1]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Estonia",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "14.9 [10.3-20.6]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Eswatini",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "29.4 [14.6-50.2]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Ethiopia",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "5.4 [3.7-7.7]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Fiji",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "9.0 [5.5-13.6]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Finland",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "15.3 [12.3-18.6]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "France",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "13.8 [10.9-19.3]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Gabon",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "8.4 [4.7-14.0]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Gambia",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "4.8 [2.5-8.2]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Georgia",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "9.2 [6.4-12.7]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Germany",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "12.3 [10.0-15.0]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Ghana",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "6.6 [4.0-10.1]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Greece",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "5.1 [4.0-6.4]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Grenada",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "0.7 [0.5-0.9]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Guatemala",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "5.9 [4.1-8.2]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Guinea",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "7.0 [3.8-11.6]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Guinea-Bissau",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "7.0 [3.9-11.3]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Guyana",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "40.3 [26.7-66.5]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Haiti",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "9.6 [4.9-16.1]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Honduras",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "2.1 [1.0-4.1]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Hungary",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "16.6 [12.5-21.7]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Iceland",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "11.9 [9.2-14.9]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "India",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "12.7 [9.2-16.2]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Indonesia",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "2.4 [1.7-3.3]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Iran (Islamic Republic of)",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "5.2 [4.1-6.5]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Iraq",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "3.6 [2.1-5.8]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Ireland",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "9.6 [7.5-12.1]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Israel",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "5.3 [4.2-6.7]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Italy",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "6.7 [6.0-8.5]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Jamaica",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "2.4 [1.6-3.4]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Japan",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "15.3 [14.2-16.3]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Jordan",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "1.6 [1.1-2.4]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Kazakhstan",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "17.6 [13.5-22.5]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Kenya",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "6.1 [4.3-8.8]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Kiribati",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "28.3 [17.7-42.1]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Kuwait",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "2.9 [2.0-4.1]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Kyrgyzstan",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "7.4 [5.7-9.5]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Lao People's Democratic Republic",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "5.4 [3.0-8.8]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Latvia",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "20.1 [14.1-27.8]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Lebanon",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "2.8 [1.4-5.1]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Lesotho",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "72.4 [27.6-137.0]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Liberia",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "4.5 [2.3-7.9]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Libya",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "4.5 [2.5-7.4]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Lithuania",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "26.1 [19.4-34.3]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Luxembourg",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "11.3 [8.5-14.7]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Madagascar",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "5.5 [3.2-8.8]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Malawi",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "5.4 [3.3-8.3]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Malaysia",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "5.7 [3.5-8.9]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Maldives",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "2.7 [1.8-4.1]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Mali",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "4.1 [2.0-7.5]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Malta",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "6.1 [4.5-7.9]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Mauritania",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "3.1 [1.5-5.8]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Mauritius",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "9.5 [6.8-12.8]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Mexico",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "5.3 [4.3-6.5]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Micronesia (Federated States of)",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "28.2 [11.9-45.3]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Mongolia",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "17.9 [11.0-27.6]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Montenegro",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "21.0 [14.0-30.5]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Morocco",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "7.2 [3.3-13.4]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Mozambique",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "13.6 [7.8-21.8]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Myanmar",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "2.9 [1.8-4.4]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Namibia",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "9.7 [5.3-16.6]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Nepal",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "9.0 [5.0-13.8]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Netherlands",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "11.8 [9.6-14.4]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "New Zealand",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "11.0 [9.1-13.3]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Nicaragua",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "4.4 [2.8-12.1]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Niger",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "5.3 [2.7-9.4]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Nigeria",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "3.5 [2.0-5.8]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Norway",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "11.8 [10.6-13.1]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Oman",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "4.9 [2.9-8.6]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Pakistan",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "8.9 [4.5-15.8]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Panama",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "2.9 [1.9-4.1]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Papua New Guinea",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "3.0 [1.7-5.4]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Paraguay",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "6.0 [3.4-9.1]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Peru",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "2.8 [1.6-4.4]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Philippines",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "2.2 [1.5-10.1]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Poland",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "11.3 [8.9-14.3]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Portugal",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "11.5 [9.0-14.4]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Qatar",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "5.8 [3.7-9.2]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Republic of Korea",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "28.6 [15.8-39.5]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Republic of Moldova",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "14.7 [11.3-24.2]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "North Macedonia",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "9.4 [6.1-13.7]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Romania",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "9.7 [7.3-12.7]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Russian Federation",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "25.1 [20.2-31.7]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Rwanda",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "5.6 [3.2-9.2]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Saint Lucia",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "7.9 [5.6-10.7]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Saint Vincent and the Grenadines",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "1.0 [0.7-1.4]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Samoa",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "12.6 [6.6-20.1]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Sao Tome and Principe",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "1.5 [0.8-2.5]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Saudi Arabia",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "6.0 [3.6-9.4]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Senegal",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "6.0 [3.5-9.5]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Serbia",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "11.4 [7.7-15.9]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Seychelles",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "8.1 [5.4-11.5]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Sierra Leone",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "6.7 [3.6-11.2]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Singapore",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "11.2 [9.0-13.7]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Slovakia",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "12.1 [7.9-21.4]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Slovenia",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "19.8 [13.8-27.9]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Solomon Islands",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "14.7 [6.5-23.3]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Somalia",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "7.9 [3.7-14.2]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "South Africa",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "23.5 [16.0-32.2]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "South Sudan",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "3.9 [2.1-6.7]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Spain",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "7.7 [6.2-9.5]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Sri Lanka",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "14.0 [9.0-22.6]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Sudan",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "3.8 [1.9-6.7]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Suriname",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "25.4 [17.0-36.1]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Sweden",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "14.7 [12.4-17.3]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Switzerland",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "14.5 [11.6-18.0]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Syrian Arab Republic",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "2.0 [1.2-3.0]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Tajikistan",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "4.3 [2.6-6.4]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Thailand",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "8.8 [5.4-13.2]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Timor-Leste",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "3.7 [1.4-6.3]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Togo",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "8.8 [5.1-14.0]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Tonga",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "3.8 [2.3-6.1]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Trinidad and Tobago",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "8.7 [5.7-12.6]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Tunisia",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "3.3 [1.8-5.6]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Turkey",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "2.4 [1.6-3.6]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Turkmenistan",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "5.7 [4.0-7.9]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Uganda",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "4.6 [2.7-7.3]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Ukraine",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "21.6 [15.8-28.7]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "United Arab Emirates",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "6.4 [3.6-10.3]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "United Kingdom of Great Britain and Northern Ireland",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "7.9 [7.4-8.4]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "United Republic of Tanzania",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "4.3 [2.6-6.6]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "United States of America",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "16.1 [15.1-19.9]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Uruguay",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "21.2 [16.9-26.2]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Uzbekistan",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "8.0 [6.0-10.5]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Vanuatu",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "18.0 [9.2-28.6]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Venezuela (Bolivarian Republic of)",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "2.1 [1.4-3.0]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Viet Nam",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "7.5 [4.1-11.7]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Yemen",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "5.8 [2.8-10.1]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Zambia",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "7.3 [4.4-11.3]"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Zimbabwe",
+                          "SEX": "Both sexes",
+                          "GHO": "Crude suicide rates (per 100 000 population)",
+                          "YEAR": "2019"
+                        },
+                "Value": "14.1 [7.5-22.8]"
+              }
+      ]
+}
