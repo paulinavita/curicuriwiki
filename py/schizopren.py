@@ -47,8 +47,7 @@ def extractEpidemData():
 def getEpidemTable(ranks, rates):
   dataFrameEpidem = pd.DataFrame(ranks, index= countries, columns = ['Rank'])
   dataFrameEpidem['DALY rate'] = rates
-
-  dataFrameEpidem.head(10)
+  dataFrameEpidem.dropna()
   return dataFrameEpidem
 
 def extractSunData():
@@ -90,26 +89,53 @@ def handleListCountrySun():
   listed = list(asc.values())
   return listed
 
+
 def getFinalData():
   df2 = pd.DataFrame.from_dict(countrySunObj, orient='index', columns = ['Sunshine Hours/Year'])
   df = getEpidemTable(ranks, rates).join(df2)
   df.dropna(inplace=True)
-  testRegre(ranks[:-67], handleListCountrySun())
   df.info()
-  df.corr()
+  print(df.corr())
   df.to_csv('schizo-2.csv')
-  hehe = sns.scatterplot('Rank', 'Sunshine Hours/Year', data=df)
-  # show plot
+
+  # get reg
+  getLinearRg()
+
+  # get least square, uncomment if needed
+  # getLeastSq()
+
+def getLinearRg():
+  data = pd.read_csv('schizo-2.csv') 
+  X = data.iloc[:, 1].values.reshape(-1, 1) 
+  Y = data.iloc[:, 3].values.reshape(-1, 1)
+  linear_regressor = LinearRegression()
+  linear_regressor.fit(X, Y)
+  Y_pred = linear_regressor.predict(X) 
+  sns.scatterplot(x='Rank', y='Sunshine Hours/Year', data=data)
+  plt.plot(X, Y_pred, color='red')
   plt.show()
 
+def getLeastSq():
+  data = pd.read_csv('schizo-2.csv')
+  X = data.iloc[:, 1]
+  Y = data.iloc[:, 3]
+  plt.scatter(X, Y)
+  plt.show()
 
-def testRegre(x, y):
-  xAxis = np.array(x).reshape((-1, 1))
-  yAxis = np.array(handleListCountrySun())
-  model = LinearRegression().fit(xAxis, yAxis)
-  r_sq = model.score(xAxis, yAxis)
-  print('coefficient of determination:', r_sq)
-  print('intercept:', model.intercept_)
-  print('slope:', model.coef_)
+  X_mean = np.mean(X)
+  Y_mean = np.mean(Y)
+
+  num = 0
+  den = 0
+  for i in range(len(X)):
+      num += (X[i] - X_mean)*(Y[i] - Y_mean)
+      den += (X[i] - X_mean)**2
+  m = num / den
+  c = Y_mean - m*X_mean
+  
+  Y_pred = m*X + c
+  plt.scatter(X, Y) # actual
+  plt.plot([min(X), max(X)], [min(Y_pred), max(Y_pred)], color='red') # predicted
+  plt.show()
 
 getFinalData()
