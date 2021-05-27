@@ -13,7 +13,7 @@ from sklearn.linear_model import LinearRegression
 countries = []
 
 def formatDotAmount(num):
-  return float(re.sub(r'[^\w\s.]','',num))
+  return 'hehe' + float(re.sub(r'[^\w\s.]','',num))
 
 def bsInit(url):
   html = urlopen(url) 
